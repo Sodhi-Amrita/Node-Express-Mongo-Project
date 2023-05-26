@@ -1,0 +1,12 @@
+button{
+    margin-top:20px;
+    margin-left:120px;
+    border-radius: 5px;
+    font-size: large;
+    padding:3px;
+    background-color:#24786a;
+    color: aliceblue;
+}
+body{
+    background-color: #dff5f1;
+}
